@@ -1,4 +1,4 @@
-package com.sasuha.modal;
+package com.sasuha.modal.copy;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;
